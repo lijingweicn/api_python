@@ -1,0 +1,5 @@
+pytest-html
+allure-pytest
+pytest-xdis
+pytest-orderding
+pytest-rerunfailures
